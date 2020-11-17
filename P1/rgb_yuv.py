@@ -1,5 +1,6 @@
 from PIL import Image
 import numpy
+#prueba git
 
 # open images and make the same size
 im = Image.open("eat_micro.jpg").resize((256, 256))
