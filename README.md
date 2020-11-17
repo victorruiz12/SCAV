@@ -1,2 +1,2 @@
 # SCAV
-SCAV repository UPF w/ Javier Brines
+SCAV repository UPF
